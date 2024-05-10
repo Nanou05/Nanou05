@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Naima
 - 🌱 I'm a data scientist
 - 👀 I’m interested in NLP
-- 🌱 I’m currently working on Active Learning projects
+- 🌱 I’m currently working on Deep Learning and AI projects
 
 
 <!---

@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Naima
 - 🌱 I'm a data scientist
-- 👀 I’m interested in LLMs & Active Learning
-- 🌱 I’m currently working on Deep Learning and NLP projects
+- 👀 I’m passionate about NLP, LLMs & interested in Active Learning
+- 🌱 I’m currently working on Computer Vision and NLP projects
+- 🥇 I help students grow their skills as future data professionals 
 
 
 <!---
